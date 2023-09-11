@@ -1,0 +1,20 @@
+{
+  "name": "skyuniverse_bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "author": "SkyUniverse",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "puppeteer": "^21.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  }
+}

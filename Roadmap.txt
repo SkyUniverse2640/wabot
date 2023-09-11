@@ -1,0 +1,5 @@
+1. Membuat Connector.JS & setup untuk Mysql Database; (Done)
+2. Membuat Main.js yang berisi Kode utama (Done)
+3. handler.js yang berisi handler handler
+4. lib/config.js yang berisi global.information
+5. lib/command.js berisi command command bot nya
